@@ -1,0 +1,16 @@
+#events-header {
+    background: url('http://www.elementaryos-fr.org/wp-content/uploads/2013/09/wallpaper-2552971.jpg');
+    background-position: center center;
+}
+
+#events-header h2 {
+    color: #FFF;
+    font-size: 7em;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: 17px;
+    padding-top: 120px;
+}

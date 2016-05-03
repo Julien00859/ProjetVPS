@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} ^www.b2b.wt4.ephec-ti.be$
+RewriteRule ^(.*)    http://b2b.wt4.ephec-ti.be/$1   [QSA,L,R=301]
