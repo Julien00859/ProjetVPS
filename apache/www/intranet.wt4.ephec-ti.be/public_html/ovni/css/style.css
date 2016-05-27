@@ -1,0 +1,21 @@
+/*************************** HEADER ***************************/
+
+.intro-header {
+    background: url('http://images.123hdwallpapers.com/20150905/floating-island-astronaut-rocket-ufo-minimalism-1920x1080.png');
+    height: 100vh;
+}
+
+a.navbar-brand img {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 10px;
+}
+
+
+
+/*************************** MAIN ***************************/
+
+
+/*************************** FOOTER ***************************/
+
