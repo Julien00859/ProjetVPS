@@ -1,0 +1,4 @@
+add_file=/etc/logrotate.d
+sort_mode=0
+logrotate_conf=/etc/logrotate.conf
+logrotate=logrotate

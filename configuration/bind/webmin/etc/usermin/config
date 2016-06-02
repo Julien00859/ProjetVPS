@@ -1,0 +1,7 @@
+cron_mode=0
+usermin_dir=/etc/usermin
+updays=1
+upmissing=0
+upshow=1
+uphour=4
+update=0

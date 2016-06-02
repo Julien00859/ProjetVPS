@@ -1,0 +1,2 @@
+mail._domainkey	IN	TXT	( "v=DKIM1; k=rsa; t=y; "
+	  "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXSGw9zB2DI/eg/vtyaYzsES9dOgBcb1RbCseoiNluF1Ja2Rrtx3+6lVbKZhxNaDPOubtC82NvNZQry5lA3EiyutANe9+Ceh2pcqukRla6GqxkEJq/D1hGVQS4dtgeaZ0O3qYQDaUlW+IC9RHgsXMFKDSjvgp5Q8J4ukdSrSNHEQIDAQAB" )  ; ----- DKIM key mail for ubuntu.ro

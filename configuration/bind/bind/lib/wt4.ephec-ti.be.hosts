@@ -1,0 +1,19 @@
+$ttl 38400
+wt4.ephec-ti.be.	IN	SOA	ns.wt4.ephec-ti.be. g\.beernaut.students.ephec.be. (
+			1458080841
+			10800
+			3600
+			604800
+			38400 )
+wt4.ephec-ti.be.	IN	NS	ns.wt4.ephec-ti.be.
+ns.wt4.ephec-ti.be.	IN	A	51.254.212.176
+webserveur.wt4.ephec-ti.be.	IN	A	51.254.212.176
+www.wt4.ephec-ti.be.	IN	CNAME	webserveur
+b2bserveur.wt4.ephec-ti.be.	IN	A	51.254.212.176
+b2b.wt4.ephec-ti.be.	IN	CNAME	b2bserveur
+intranetserveur.wt4.ephec-ti.be.	IN	A	51.254.212.176
+intranet.wt4.ephec-ti.be.	IN	CNAME	intranetserveur
+wt4.ephec-ti.be.	IN	MX	10 mail.wt4.ephec-ti.be.
+mail.wt4.ephec-ti.be.	IN	A	51.254.212.176
+owncloudserveur.wt4.ephec-ti.be.	IN	A	51.254.212.176
+owncloud.wt4.ephec-ti.be.	IN	CNAME	owncloudserveur
