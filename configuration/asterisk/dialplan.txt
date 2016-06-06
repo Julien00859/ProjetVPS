@@ -1,0 +1,51 @@
+
+
+Directeur : 100
+	- Peut joindre tout le monde
+	- Les appels entrants sont redirigés vers la secrétaire
+
+______________________________________________________________________________
+
+
+Sécrétaire : 200
+	- Peut joindre tout le monde
+	- Seul numéro a être contacté de l’extérieur
+
+______________________________________________________________________________
+
+
+Service comptable : 300 
+	- Chaque comptable peut joindre l’extérieur
+	- Chaque comptable peut joindre tout le monde
+	- Ne peut pas joindre le directeur
+	- Un numéro pour joindre le premier comptable disponible
+	- Un numéro par bureau
+	- Chaque numéro dispose d’une boite vocale
+
+	Bureau 1 : 310 
+		Comptable 1: 311 
+		Comptable 2 : 312 
+	Bureau 2 : 320 
+		Comptable 3 : 321 
+		Comptable 4 : 322 
+
+______________________________________________________________________________
+
+
+Service commercial : 400 
+	- Chaque commercial peut joindre l’extérieur
+	- Chaque commercial peut joindre tout le monde
+	- Ne peut pas joindre le directeur
+	- Chaque numéro dispose d’une boite vocale
+
+	Commercial 1 : 401
+	Commercial 2 : 402
+	Commercial 3 : 403
+
+______________________________________________________________________________
+
+
+Service ouvrier : 500
+	- Un numéro pour tous les ouvriers peut joindre les autres services
+	- Le numéro dispose d’une boite vocale
+
